@@ -1,1 +1,1 @@
-console.log("Pizza is great!");
+let count=0;const lc=document.getElementById("lc");function re(){lc.textContent=Count;}function dec(){count--;re();}function inc(){count++;re();}function res(){count=0;re();}re();
